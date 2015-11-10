@@ -1,0 +1,15 @@
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\obj\x86\Debug\Prog2.exe
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\obj\x86\Debug\Prog2.pdb
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\obj\x86\Debug\LibraryItems.BookForm.resources
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\obj\x86\Debug\LibraryItems.CheckoutForm.resources
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\obj\x86\Debug\LibraryItems.ItemFormBase.resources
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\obj\x86\Debug\LibraryItems.PatronForm.resources
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\obj\x86\Debug\LibraryItems.Prog3Form.resources
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\obj\x86\Debug\LibraryItems.Properties.Resources.resources
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\obj\x86\Debug\LibraryItems.ReturnForm.resources
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\obj\x86\Debug\Prog3.csproj.GenerateResource.Cache
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\bin\Debug\Prog2.exe
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\bin\Debug\Prog2.pdb
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\obj\x86\Debug\LibraryItems.PatronEdit.resources
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\obj\x86\Debug\LibraryItems.BookEdit.resources
+C:\Users\Brick\Documents\School\Spring 2015\CIS 200\Prog2(2)Sol\Prog2\Prog3\Prog3\obj\x86\Debug\Prog3.csprojResolveAssemblyReference.cache
