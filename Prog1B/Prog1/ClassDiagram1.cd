@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="LibraryItems.LibraryBook">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAEgAAAAEAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LibraryBook.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryItem">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAEAQCBAIAABEAESAIAAAAAAQAQAAAAAAAiYAAAADA=</HashCode>
+      <FileName>LibraryItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryJournal">
+    <Position X="7.25" Y="8.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAoAAAAEQAAAAEAAAAAQQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LibraryJournal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryMagazine">
+    <Position X="9.5" Y="8.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAEAAAAAEAAAAAQAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LibraryMagazine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryMediaItem">
+    <Position X="4" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="LibraryItems.LibraryMediaItem.MediaType">
+        <TypeIdentifier>
+          <NewMemberFileName>LibraryMediaItem.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAEABAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>LibraryMediaItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryMovie">
+    <Position X="2.75" Y="10.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="LibraryItems.LibraryMovie.MPAARatings">
+        <TypeIdentifier>
+          <NewMemberFileName>LibraryMovie.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAQAIIAAEAAAIAAABAAAQAAEAAAAAAAAEAAA=</HashCode>
+      <FileName>LibraryMovie.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryMusic">
+    <Position X="5" Y="10.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAEAAIAAEAAAAAEAAAIAQAgAAIAAAAAAEAAA=</HashCode>
+      <FileName>LibraryMusic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryItems.LibraryPeriodical">
+    <Position X="8.5" Y="5.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAEAAAAAAAAAAAAAAAAIAAADAAAA=</HashCode>
+      <FileName>LibraryPeriodical.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LibraryPatron">
+    <Position X="12" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>QACAQAAAAAIAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LibraryPatron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Program" Collapsed="true">
+    <Position X="13.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

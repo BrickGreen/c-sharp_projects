@@ -1,0 +1,5 @@
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_11F\Programs\Prog4\Prog4\bin\Debug\Prog4.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_11F\Programs\Prog4\Prog4\bin\Debug\Prog4.pdb
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_11F\Programs\Prog4\Prog4\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_11F\Programs\Prog4\Prog4\obj\x86\Debug\Prog4.exe
+C:\Users\alwrig01\Documents\Teaching\CIS199v2\CIS199_11F\Programs\Prog4\Prog4\obj\x86\Debug\Prog4.pdb
